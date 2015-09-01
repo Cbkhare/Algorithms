@@ -4,7 +4,7 @@
 - Challenges involving application of complex algorithms and data structures from:- 
 -   S.P.O.J
 -   TopCoder
--   HackerErth
+-   HackerEarth
 -   HackerRank
 -   CodeEval
 -   CodeChef
