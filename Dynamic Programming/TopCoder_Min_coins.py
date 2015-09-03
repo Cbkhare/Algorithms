@@ -1,5 +1,3 @@
-import math
-
 print ('Give the denominations.(space delimited)')
 box = list(map(int,input().split(' ')))
 
