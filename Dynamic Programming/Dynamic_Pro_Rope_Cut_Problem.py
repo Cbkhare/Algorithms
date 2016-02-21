@@ -1,16 +1,11 @@
 def prody(N,memo):
-    print (memo)
+    #print (memo)
     if N in memo:   return memo[N]
-    elif N==1:
-        memo[1]=1
-    elif N==2:
-        memo[2]=2
-    elif N==3:
-        memo[3]=3
+    elif N<=3:      memo[N]=N
     else:
         maxy = 0
         for i in range(1,int(N/2)+1):
-            print (i,N)
+            #print (i,N)
             maxy = max(maxy,i*(N-i),prody(N-i,memo)*i)
         memo[N]=maxy
     return memo[N]
