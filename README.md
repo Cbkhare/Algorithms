@@ -1,5 +1,5 @@
 # Algorithms
 
-- Basic Data structures and algorith written in Python
+- Data structures and algorithms written in Python
 
 
