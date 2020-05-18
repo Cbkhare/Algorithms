@@ -77,4 +77,41 @@ if __name__ == "__main__":
 references:
 https://www.geeksforgeeks.org/suffix-array-set-2-a-nlognlogn-algorithm/
 https://ide.geeksforgeeks.org/b7OX24R0gE
+https://discuss.codechef.com/t/a-tutorial-on-suffix-arrays/2950
+Practice Problems
+
+    Uva 760 - DNA Sequencing
+    Uva 1223 - Editor
+    Codechef - Tandem
+    Codechef - Substrings and Repetitions
+    Codechef - Entangled Strings
+    Codeforces - Martian Strings
+    Codeforces - Little Elephant and Strings
+    SPOJ - Ada and Terramorphing
+    SPOJ - Ada and Substring
+    UVA - 1227 - The longest constant gene
+    SPOJ - Longest Common Substring
+    UVA 11512 - GATTACA
+    LA 7502 - Suffixes and Palindromes
+    GYM - Por Costel and the Censorship Committee
+    UVA 1254 - Top 10
+    UVA 12191 - File Recover
+    UVA 12206 - Stammering Aliens
+    Codechef - Jarvis and LCP
+    LA 3943 - Liking's Letter
+    UVA 11107 - Life Forms
+    UVA 12974 - Exquisite Strings
+    UVA 10526 - Intellectual Property
+    UVA 12338 - Anti-Rhyme Pairs
+    DevSkills Reconstructing Blue Print of Life
+    UVA 12191 - File Recover
+    SPOJ - Suffix Array
+    LA 4513 - Stammering Aliens
+    SPOJ - LCS2
+    Codeforces - Fake News (hard)
+    SPOJ - Longest Commong Substring
+    SPOJ - Lexicographical Substring Search
+    Codeforces - Forbidden Indices
+    Codeforces - Tricky and Clever Password
+    LA 6856 - Circle of digits
 """
